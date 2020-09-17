@@ -24,6 +24,7 @@
  * 2014 - 2017: company Stroytrest 8, Brest, Belarus
  Civil engineer.
  Constructing plumbing systems in civil bildings: Prosecutors office of Brest region, Brest Puppet Theater.
+ 
 # 5. Skills
  * Solve technical problems.
  * In-depth knowledge of programs Word and Excel.
