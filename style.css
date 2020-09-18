@@ -1,0 +1,37 @@
+body {
+    margin: auto;
+    padding: 40px;
+    background-color: rgb(240, 241, 181);
+}
+h1 {
+    margin: auto;
+    color: rgb(4, 34, 59);
+    background-color: rgb(127, 189, 118);
+    border: 2px solid rgb(28, 67, 117);
+    text-align: center;
+}
+p {
+    margin: auto;
+    padding: 40px;
+}
+header {
+    margin: auto;
+    padding: 20px;
+}
+section {
+    margin: auto;
+    padding: 40px;
+    border: 3px coral;
+}
+ul {
+    margin: auto;
+}
+li {
+    margin: auto;
+}
+div {
+    margin: auto;
+}
+.centerpix {
+    text-align: center;
+}
